@@ -78,3 +78,5 @@ This guide offers a concise yet comprehensive overview of logic constructs in Po
 
 
 
+This guide offers a concise yet comprehensive overview of logic constructs in PowerShell, designed to help users understand and apply conditional logic in their scripts effectively.
+
