@@ -1,4 +1,4 @@
-```powershell
+```powershell ```
 
 #The Script will install global protect when not connected to vpn , 
 #add portal address, 
