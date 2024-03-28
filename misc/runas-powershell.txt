@@ -1,0 +1,2 @@
+
+C:\Windows\System32\runas.exe /env /noprofile /user:domain\username "C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -noprofile -command \"start-process powershell_ise -verb RunAs\""
