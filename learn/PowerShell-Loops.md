@@ -70,3 +70,11 @@ do {
     $i++
 } until ($i -ge 10)
 ```
+## Using Break and Continue in Loops
+Break: Exits the loop entirely.
+Continue: Skips the rest of the current loop iteration and moves to the next one.
+## Conclusion
+Understanding and utilizing the various loop constructs in PowerShell can significantly enhance your scripting and automation tasks. 
+Each loop type offers specific benefits for different scenarios, from processing collections with foreach to conditional looping with while, do-while, and do-until.
+
+Remember, the choice of loop depends on your specific needs and the structure of your data. Experiment with these examples and incorporate them into your PowerShell scripts to perform repetitive tasks more efficiently.
