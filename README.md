@@ -4,7 +4,7 @@ Welcome to the `beta-scripts` repository, your toolkit for automation and system
 
 ## Quick Start
 
-- Clone the repository: `git clone https://example.com/beta-scripts.git`
+- Clone the repository: `git clone https://github.com/labdocx/beta-scripts/beta-scripts.git`
 - Navigate to the script category of interest (e.g., `cd Azure`)
 - Review the script documentation: `cat deployVM.ps1`
 - Execute the script with the necessary parameters
